@@ -46,34 +46,50 @@ E스포츠 · 축구 · 야구 세 가지 카테고리를 중심으로
 
 ### 메인 페이지
 
+<img
+src="/assets/img.png"
+alt="PlayHive Landing Page"
+style="width:100%;height:220px;display:flex;align-items:center;justify-content:center;border:1px solid #000;"
+/>
+
+<!-- 메인 페이지 -->
+
 - 최신, 인기 게시글 목록과 뉴스 피드, 게임 이벤트
-<div style="width:100%;height:220px;display:flex;align-items:center;justify-content:center;background-color:#f5f5f5">
-  <!-- 메인 이미지 -->
-  <span>Main Page Placeholder</span>
-</div>
 
 ### 게시판 페이지
 
+<img
+  src="/assets/img.png"
+  alt="PlayHive Category Board"
+  style="width:100%;height:180px;display:flex;align-items:center;justify-content:center;border:1px solid #000;"
+  />
+
+  <!-- 게시판 페이지 -->
+
 - E스포츠 / 축구 / 야구별 게시판, 욕설 자동 치환(`***`)
-<div style="width:100%;height:180px;display:flex;align-items:center;justify-content:center;background-color:#f5f5f5">
-  <!-- 게시판 이미지 -->
-  <span>Category Board Placeholder</span>
-</div>
 
 ### 뉴스 페이지
 
+  <!-- 뉴스 페이지 -->
+
+<img
+  src="/assets/img.png"
+  alt="PlayHive News"
+  style="width:100%;height:180px;display:flex;align-items:center;justify-content:center;border:1px solid #000;"
+  />
+
 - 크롤링된 카테고리별 뉴스 목록, 기사 링크 제공
-<div style="width:100%;height:180px;display:flex;align-items:center;justify-content:center;background-color:#f5f5f5">
-  <!-- 뉴스 이미지 -->
-  <span>News Placeholder</span>
-</div>
 
 ### E스포츠 중계
 
+<!-- E스포츠 중계 -->
+
+<img
+src="/assets/img.png"
+alt="PlayHive E-sports Live"
+style="width:100%;height:200px;display:flex;align-items:center;justify-content:center;border:1px solid #000;"
+/>
+
 - YouTube 임베드 기반 실시간 경기 중계
-<div style="width:100%;height:200px;display:flex;align-items:center;justify-content:center;background-color:#f5f5f5">
-  <!-- E스포츠 중계 이미지 -->
-  <span>E-sports Live Placeholder</span>
-</div>
 
 <br />
