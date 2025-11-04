@@ -4,7 +4,7 @@ alt="PlayHive Landing Page"
 style="width:100%;height:220px;display:flex;align-items:center;justify-content:center;border:1px solid #000;"
 />
 
-<h1 style="display:flex;align-items:"><img src="/assets/logo.png" alt="PlayHive Logo" style="width:48px;height:48px;"> PlayHive</h1>
+# PlayHive
 
 스포츠 팬들이 모이는 **욕설 없는 클린 커뮤니티**  
 E스포츠 · 축구 · 야구 세 가지 카테고리를 중심으로  
